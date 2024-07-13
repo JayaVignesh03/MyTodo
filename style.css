@@ -74,7 +74,7 @@ ul li::before {
     height: 30px;
     width: 28px;
     border-radius: 50%;
-    background-image: url('image/todo.png');
+    background-image: url('todo.png');
     background-size: cover;
     background-position: center;
     top: 12px;
@@ -87,7 +87,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-    background-image: url('image/todotick.png');
+    background-image: url('todotick.png');
 }
 ul li span{
     position:absolute;
